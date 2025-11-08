@@ -1,0 +1,12 @@
+# Project exclude paths
+/common/target/
+/common/target/scala-3.6.4/classes/
+/DataProvider/target/
+/DataProvider/target/scala-3.6.4/classes/
+/PredictionProject/target/
+/PredictionProject/target/scala-3.6.4/classes/
+/project/project/target/
+/project/target/
+/SqueezeFounder/target/
+/SqueezeFounder/target/scala-3.6.4/classes/
+/target/
